@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//WAP to accept the number from user and display a square if no is divisible by 5
+
 public class squareIfDivByFive {
     public static void main (String args[]){
         int num,res;
