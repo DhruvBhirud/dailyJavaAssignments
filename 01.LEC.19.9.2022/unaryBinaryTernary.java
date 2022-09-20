@@ -1,4 +1,8 @@
 import java.util.Scanner;
+//WAP to accept choice from user and accordingly display the op (Switch case)
+//1:Unary Operator
+//2:Binary operator
+//3:Ternary Operator
 
 public class unaryBinaryTernary {
     public static void main (String args[]){
