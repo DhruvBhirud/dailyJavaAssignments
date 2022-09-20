@@ -1,5 +1,5 @@
 import java.util.*;
-
+//WAP to accept character/Alphabet from user and check if it is vowel or not
 public class checkIfVowelOrNot {
     public static void main (String args[]){
         char ch;
