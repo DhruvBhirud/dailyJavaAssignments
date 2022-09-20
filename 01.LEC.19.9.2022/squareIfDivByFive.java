@@ -7,6 +7,7 @@ public class squareIfDivByFive {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number");
         num=sc.nextInt();
+        sc.close();
         //if statement start
         if (num%5==0) {
             res=num*num;
