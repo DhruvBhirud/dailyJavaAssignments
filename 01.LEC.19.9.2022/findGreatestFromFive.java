@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class findGreatestFromFive {
     public static void main (String args[]){
         int a,b,c,d,e;
+        //Taking input from user
         System.out.println("Enter 5 Numbers");
         Scanner sc= new Scanner(System.in);
         a=sc.nextInt();
@@ -12,6 +13,7 @@ public class findGreatestFromFive {
         d=sc.nextInt();
         e=sc.nextInt();
         sc.close();
+        //using if else if ladder to check which number is greater
         if ((a>b)&&(a>=c)&&(a>=d)&&(a>=e)) {
             System.out.println("The Greatest number is : "+a);
         }
