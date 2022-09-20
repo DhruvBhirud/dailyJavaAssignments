@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//WAP to accept age from user and check eligibility for voting or not
 public class ageVerificationForVoting {
     public static void main (String args[]){
         int age;
