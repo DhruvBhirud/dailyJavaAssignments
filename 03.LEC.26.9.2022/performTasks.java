@@ -6,7 +6,7 @@ import java.util.*;
   3: Reverse of the Number
   4: Swapping of two no with third variable
   5: Swapping without third variable
-  6: Accept the value find out the factorial and pass the value of factorial to another function 7
+  6: Accept the value find out the factorial and pass the value of factorial to another function
   7: Find out the sum of digit*/
 
 public class performTasks {
