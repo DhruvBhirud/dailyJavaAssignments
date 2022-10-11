@@ -5,6 +5,7 @@ public class run extends marksAvg{
 		// TODO Auto-generated method stub
 		//calling functions inherited by multilevel inheritance
 		pr();
+		swp();
 		marks();
 	}
 

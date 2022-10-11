@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class marksAvg extends prime{
+public class marksAvg extends swap{
 
 	public static void marks() {
 		// TODO Auto-generated method stub
