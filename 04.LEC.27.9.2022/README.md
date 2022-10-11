@@ -1,3 +1,3 @@
 # Index for LEC.27.9.2022
-1. [WAP using array accept the size from the user than accordingly accept the no from the user and find out the greater no,smaller no, ascending,Descending](https://github.com/DhruvBhirud/dailyJavaAssignments/blob/main/04.LEC.27.9.2022/arraySortFromUser.java)
-2. [WAP to accept Student's Name, Marks of 5 subject, Calculate the Percentage and display the grade](https://github.com/DhruvBhirud/dailyJavaAssignments/blob/main/04.LEC.27.9.2022/arrayMarksDisplay.java)
+1. [WAP using array accept the size from the user than accordingly accept the no from the user and find out the greater no,smaller no, ascending,Descending](arraySortFromUser.java)
+2. [WAP to accept Student's Name, Marks of 5 subject, Calculate the Percentage and display the grade](arrayMarksDisplay.java)
