@@ -1,0 +1,2 @@
+# Index for LEC.11.10.2022
+1. [WAP to create two classes one class do the process of fibonacci series and in second class find out the greater between two numbers. From second class display both the operation.](./singleInheritance/)
