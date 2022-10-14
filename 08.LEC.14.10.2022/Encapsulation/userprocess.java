@@ -1,5 +1,5 @@
 package Encapsulation;
-
+//WAP to accept Bankname Username Password Process:credi/debit. Display the details with Final Balance Amount
 import java.util.Scanner;
 
 public class userprocess {
