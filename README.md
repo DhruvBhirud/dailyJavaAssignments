@@ -8,3 +8,4 @@ For Thursday Lab Visit -> [Thursday Lab](https://github.com/DhruvBhirud/javaThur
 6. [LEC.11.10.2022](06.LEC.11.10.2022/)
 7. [LEC.12.10.2022](07.LEC.12.10.2022/)
 8. [LEC.14.10.2022](08.LEC.14.10.2022/)
+9. [LEC.17.10.2022](./09.LEC.17.10.2022/)
