@@ -7,5 +7,6 @@
 2. [WAP to Following using Abstract Class :](./abstract/)
 ```
 1. Create abstract class to calculate net salary from gross and other details.
-2. Create Different class to make use of the Abstract class and display Professional Information of an employee along with Net Salary Calculated.
+2. Create Different class to make use of the Abstract class and display Professional Information of an employee
+along with Net Salary Calculated.
 ```
