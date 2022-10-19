@@ -86,11 +86,11 @@ public class trycatch {
 			}
 			
 			try {
-				int[] arr=new int[10];
-				arr[99]=123;
+				int[] dbarr=new int[10];
+				dbarr[99]=123;
 				for(int i=0;i<10;i++)
 				{
-					System.out.println("array="+arr[i]);
+					System.out.println("array="+dbarr[i]);
 				}
 			}
 			catch (Exception e) {
@@ -125,11 +125,11 @@ public class trycatch {
 			name=null;
 			System.out.println("the name is="+name.hashCode());
 			
-			int[] arr=new int[10];
-			arr[99]=123;
+			int[] dbarr=new int[10];
+			dbarr[99]=123;
 			for(int i=0;i<10;i++)
 			{
-				System.out.println("array="+arr[i]);
+				System.out.println("array="+dbarr[i]);
 			}
 		} 
 		catch (ArithmeticException e) {
