@@ -5,12 +5,12 @@ public class trycatch {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int ch;
+		int db;
 		trycatch obj = new trycatch();
 		System.out.println("1. Try Catch\n2. Try Catch Finally\n3. Nested Try Catch\n4. Multiple Catch");
 		Scanner sc = new Scanner(System.in);
-		ch=sc.nextInt();
-		switch (ch) {
+		db=sc.nextInt();
+		switch (db) {
 		case 1:
 			obj.TC();
 			break;
